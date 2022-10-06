@@ -2,11 +2,12 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I have served as a supervisor for courses [Statistics IB](https://www.dpmms.cam.ac.uk/study/IB/Statistics/), [Principle of Statistics](https://www.dpmms.cam.ac.uk/study/II/PrinciplesOfStatistics/) and {Mathematics of Machine Learning}(http://www.statslab.cam.ac.uk/~rds37/machine_learning.html) during my time at the University of Cambridge.
 
-Organize your courses by years, topics, or universities, however you like!
+
+
+
