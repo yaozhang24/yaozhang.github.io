@@ -10,7 +10,6 @@ profile:
   address: >
     <p>Sequoia Hall 390</p>
     <p>Stanford, CA 94305</p>
-    <p>zhangyao@stanford.edu</p>
 
 social: true  # includes social icons at the bottom of the page
 ---
