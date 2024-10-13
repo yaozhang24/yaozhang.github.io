@@ -9,7 +9,7 @@ social: true  # Includes social icons at the bottom of the page
   /* Overall content container setup */
   .content-area {
    justify-content: space-between; /* Distributes space between sections */
-    max-width: 820px;
+    max-width: 850px;
     margin-left:168px;
   }
 
@@ -23,10 +23,10 @@ social: true  # Includes social icons at the bottom of the page
   /* Image styling */
   .profile-pic {
     float: right; /* Image floats to the right */
-    max-width: 35%; /* Maximum width of the image */
-    margin-left: 22px; /* Space between the image and text */
-     margin-right: 34px;
-     margin-top: 11px;
+    max-width: 37%; /* Maximum width of the image */
+    margin-left: 20px; /* Space between the image and text */
+     margin-right: 24px;
+     margin-top: 13px;
       margin-bottom: 1px;
       height: auto; /* Maintain aspect ratio */
   }
