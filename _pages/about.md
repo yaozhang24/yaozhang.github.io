@@ -10,7 +10,7 @@ social: true  # Includes social icons at the bottom of the page
   .content-area {
    justify-content: space-between; /* Distributes space between sections */
     max-width: 850px;
-    margin-left:182px;
+    margin-left: 182px;
   }
 
   /* Text block settings */
