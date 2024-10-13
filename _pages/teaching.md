@@ -34,7 +34,7 @@ nav_order: 5
 
   /* Typography and readability improvements */
   li {
-    font-size: 0.88em;
+    font-size: 0.86em;
     line-height: 2.1em;
   }
   
