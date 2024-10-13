@@ -1,0 +1,10 @@
+@article{becker2020geometry,
+  title={Geometry of energy landscapes and the optimizability of deep neural networks},
+  author={Becker, Simon and Zhang, Yao and Lee, Alpha A},
+  journal={Physical review letters},
+  volume={124},
+  number={10},
+  pages={108301},
+  year={2020},
+  publisher={APS}
+}

@@ -1,0 +1,6 @@
+@article{zhang2020stepwise,
+  title={Stepwise model selection for sequence prediction via deep kernel learning},
+  author={Zhang, Yao and Jarrett, Daniel and van der Schaar, Mihaela},
+  journal={arXiv preprint arXiv:2001.03898},
+  year={2020}
+}

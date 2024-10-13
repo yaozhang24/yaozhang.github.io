@@ -1,0 +1,8 @@
+@inproceedings{zhang2022identifiable,
+  title={Identifiable energy-based representations: an application to estimating heterogeneous causal effects},
+  author={Zhang, Yao and Berrevoets, Jeroen and Van Der Schaar, Mihaela},
+  booktitle={International Conference on Artificial Intelligence and Statistics},
+  pages={4158--4177},
+  year={2022},
+  organization={PMLR}
+}

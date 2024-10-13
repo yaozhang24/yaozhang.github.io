@@ -1,0 +1,10 @@
+@article{zhang2020identifying,
+  title={Identifying degradation patterns of lithium ion batteries from impedance spectroscopy using machine learning},
+  author={Zhang, Yunwei and Tang, Qiaochu and Zhang, Yao and Wang, Jiabin and Stimming, Ulrich and Lee, Alpha A},
+  journal={Nature communications},
+  volume={11},
+  number={1},
+  pages={1706},
+  year={2020},
+  publisher={Nature Publishing Group UK London}
+}

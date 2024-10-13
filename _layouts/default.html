@@ -2,16 +2,39 @@
 <html lang="{{ site.lang }}">
 
   <!-- Head -->
-  <head>
+<head>
+
   {%- if page.redirect -%}
     <meta http-equiv="refresh" content="3; url={{ site.baseurl }}/" />
-  {%- endif -%}
+  {%- endif %}
   {% include head.html %}
-  </head>
+  
+  <!-- Custom CSS to make content larger and add margins -->
+  <style>
+    body {
+      font-size: 18px; /* Adjust this value to make content larger */
+    }
+    h1, h2, h3, h4, h5, h6 {
+      font-size: 1.8em; /* Adjust headers if needed */
+    }
+    .container {
+      max-width: 70%; /* Adjust the container width to leave room for margins */
+      margin-left: auto;
+      margin-right: auto;
+    }
+  </style>
+
+  <!-- Correct Font Awesome 6.4.0 Link -->
+<link
+   rel="stylesheet" 
+   href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+/>
+</head>
 
   <!-- Body -->
   <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
-
+ 
+    
     <!-- Header -->
     {%- include header.html %}
 

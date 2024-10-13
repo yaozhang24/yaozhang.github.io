@@ -1,0 +1,10 @@
+@article{zhang2019bayesian,
+  title={Bayesian semi-supervised learning for uncertainty-calibrated prediction of molecular properties and active learning},
+  author={Zhang, Yao and others},
+  journal={Chemical science},
+  volume={10},
+  number={35},
+  pages={8154--8163},
+  year={2019},
+  publisher={Royal Society of Chemistry}
+}

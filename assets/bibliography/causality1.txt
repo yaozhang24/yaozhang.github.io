@@ -1,0 +1,8 @@
+@article{kyono2021miracle,
+  title={Miracle: Causally-aware imputation via learning missing data mechanisms},
+  author={Kyono, Trent and Zhang, Yao and Bellot, Alexis and van der Schaar, Mihaela},
+  journal={Advances in Neural Information Processing Systems},
+  volume={34},
+  pages={23806--23817},
+  year={2021}
+}

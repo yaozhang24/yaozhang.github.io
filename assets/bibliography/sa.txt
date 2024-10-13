@@ -1,0 +1,6 @@
+@article{zhang2022sharp,
+  title={Sharp bounds and semiparametric inference in $ L\^{}$\backslash$infty $-and $ L\^{} 2$-sensitivity analysis for observational studies},
+  author={Zhang, Yao and Zhao, Qingyuan},
+  journal={arXiv preprint arXiv:2211.04697},
+  year={2022}
+}

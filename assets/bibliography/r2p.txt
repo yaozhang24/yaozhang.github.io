@@ -1,0 +1,8 @@
+@article{lee2020robust,
+  title={Robust recursive partitioning for heterogeneous treatment effects with uncertainty quantification},
+  author={Lee, Hyun-Suk and Zhang, Yao and Zame, William and Shen, Cong and Lee, Jang-Won and van der Schaar, Mihaela},
+  journal={Advances in Neural Information Processing Systems},
+  volume={33},
+  pages={2282--2292},
+  year={2020}
+}

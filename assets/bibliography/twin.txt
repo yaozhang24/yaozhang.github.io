@@ -1,0 +1,8 @@
+@article{qian2021synctwin,
+  title={Synctwin: Treatment effect estimation with longitudinal outcomes},
+  author={Qian, Zhaozhi and Zhang, Yao and Bica, Ioana and Wood, Angela and van der Schaar, Mihaela},
+  journal={Advances in Neural Information Processing Systems},
+  volume={34},
+  pages={3178--3190},
+  year={2021}
+}

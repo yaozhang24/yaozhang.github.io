@@ -1,0 +1,8 @@
+@article{crabbe2020learning,
+  title={Learning outside the black-box: The pursuit of interpretable models},
+  author={Crabbe, Jonathan and Zhang, Yao and Zame, William and van der Schaar, Mihaela},
+  journal={Advances in neural information processing systems},
+  volume={33},
+  pages={17838--17849},
+  year={2020}
+}

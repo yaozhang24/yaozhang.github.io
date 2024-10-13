@@ -1,0 +1,10 @@
+@article{zhang2018energy,
+  title={Energy--entropy competition and the effectiveness of stochastic gradient descent in machine learning},
+  author={Zhang, Yao and Saxe, Andrew M and Advani, Madhu S and Lee, Alpha A},
+  journal={Molecular Physics},
+  volume={116},
+  number={21-22},
+  pages={3214--3223},
+  year={2018},
+  publisher={Taylor \& Francis}
+}

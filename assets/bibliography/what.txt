@@ -1,0 +1,10 @@
+@article{zhang2023randomization,
+  title={What is a randomization test?},
+  author={Zhang, Yao and Zhao, Qingyuan},
+  journal={Journal of the American Statistical Association},
+  volume={118},
+  number={544},
+  pages={2928--2942},
+  year={2023},
+  publisher={Taylor \& Francis}
+}

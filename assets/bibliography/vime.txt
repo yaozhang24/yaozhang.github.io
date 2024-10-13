@@ -1,0 +1,8 @@
+@article{yoon2020vime,
+  title={Vime: Extending the success of self-and semi-supervised learning to tabular domain},
+  author={Yoon, Jinsung and Zhang, Yao and Jordon, James and Van der Schaar, Mihaela},
+  journal={Advances in Neural Information Processing Systems},
+  volume={33},
+  pages={11033--11043},
+  year={2020}
+}

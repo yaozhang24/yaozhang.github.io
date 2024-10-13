@@ -1,0 +1,6 @@
+@article{zhang2024posterior,
+  title={Posterior Conformal Prediction},
+  author={Zhang, Yao and Cand{\`e}s, Emmanuel J},
+  journal={arXiv preprint arXiv:2409.19712},
+  year={2024}
+}

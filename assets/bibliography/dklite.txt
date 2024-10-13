@@ -1,0 +1,8 @@
+@inproceedings{zhang2020learning,
+  title={Learning overlapping representations for the estimation of individualized treatment effects},
+  author={Zhang, Yao and Bellot, Alexis and Schaar, Mihaela},
+  booktitle={International Conference on Artificial Intelligence and Statistics},
+  pages={1005--1014},
+  year={2020},
+  organization={PMLR}
+}

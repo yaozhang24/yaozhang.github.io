@@ -1,0 +1,8 @@
+@article{kyono2020castle,
+  title={Castle: Regularization via auxiliary causal graph discovery},
+  author={Kyono, Trent and Zhang, Yao and van der Schaar, Mihaela},
+  journal={Advances in Neural Information Processing Systems},
+  volume={33},
+  pages={1501--1512},
+  year={2020}
+}
