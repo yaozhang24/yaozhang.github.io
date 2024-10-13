@@ -71,7 +71,7 @@ social: true  # Includes social icons at the bottom of the page
 </style>
 
 <div class="content-area">
-  <img src="../assets/img/prof_pic.jpg" alt="Profile Picture" class="profile-pic">
+  <img src="./assets/img/prof_pic.jpg" alt="Profile Picture" class="profile-pic">
 
  <div class="text-block">
     <p>
