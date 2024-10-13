@@ -96,7 +96,7 @@ In machine learning, I develop statistical methods to improve the performance of
       <li>Level-adaptive calibration for conformal prediction sets (<a href="https://arxiv.org/abs/2409.19712">link</a>).</li>
     </ul>
     <p>
-In addition to my primary research areas, I enjoy exploring basic sciences and their application of statistics and machine learning. You can find my multidisciplinary work in physics and chemistry (<a href="https://www.tandfonline.com/doi/abs/10.1080/00268976.2018.1483535">link1</a>, <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.108301">link2</a>, <a href="https://pubs.rsc.org/en/content/articlehtml/2019/sc/c9sc00616h">link3</a>, <a href="https://www.nature.com/articles/s41467-020-15235-7">link4</a>).
+In addition to my primary research areas, I enjoy exploring basic sciences and their application of statistics and machine learning. You can find my interdisciplinary work in physics and chemistry (<a href="https://www.tandfonline.com/doi/abs/10.1080/00268976.2018.1483535">link1</a>, <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.108301">link2</a>, <a href="https://pubs.rsc.org/en/content/articlehtml/2019/sc/c9sc00616h">link3</a>, <a href="https://www.nature.com/articles/s41467-020-15235-7">link4</a>).
 </p>
     </div>
 </div>
