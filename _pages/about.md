@@ -68,6 +68,7 @@ social: true  # Includes social icons at the bottom of the page
     width: 25px; /* Adjust width if needed */
   }
 
+
 </style>
 
 <div class="content-area">
