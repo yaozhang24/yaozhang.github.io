@@ -34,7 +34,7 @@ social: true  # Includes social icons at the bottom of the page
 
   /* Typography and readability improvements */
   p, li {
-    font-size: 0.86em;
+    font-size: 0.88em;
     line-height: 2.1em;
   }
   
