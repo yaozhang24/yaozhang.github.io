@@ -70,8 +70,6 @@ nav_order: 5
 Welcome to my teaching webpage! During my Ph.D. at the University of Cambridge, I participated in teaching the following courses:
 </p>
 
-
-
   <!-- Statistics IB Section -->
   <div class="section">
     <h3><a href="https://www.statslab.cam.ac.uk/Dept/People/djsteaching/teaching17.html">Statistics IB</a></h3>
