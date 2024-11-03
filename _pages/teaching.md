@@ -25,6 +25,7 @@ nav_order: 5
     box-shadow: 0 0 0px rgba(0,0,0,0.1); /* Optional: adds shadow for depth */
   }
   
+  
     .intro-text {
     font-size: 0.9em; /* Adjust the font size of the introductory text */
     line-height:  auto; /* Increase line height for better readability */
