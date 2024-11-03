@@ -31,6 +31,7 @@ social: true  # Includes social icons at the bottom of the page
       height: auto; /* Maintain aspect ratio */
   }
 
+
   /* Typography and readability improvements */
   p, li {
     font-size: 0.88em;
