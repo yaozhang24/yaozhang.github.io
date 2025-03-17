@@ -20,6 +20,7 @@ nav_order: 1
     margin-bottom: 20px; /* Add some space after the paragraph */
   }
   
+  
     li {
     font-size: 0.86em;
     line-height: 2.1em;
