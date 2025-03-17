@@ -79,7 +79,7 @@ and * : equal contribution.
 ---
 ### Statistics Papers
 ---
-- **Y. Zhang** and E. Candès. **Posterior Conformal Prediction**. Submitted to *Journal of the American Statistical Association*, 2024. [<img src="../assets/img/pdf-icon.png" width="20px" alt="PDF">](https://arxiv.org/abs/2409.19712) [<img src="../assets/img/github-icon.png" width="20px" alt="GitHub">](https://github.com/yaozhang24/pcp) <a href="../assets/bibliography/pcp.txt" target="_blank"><img src="../assets/img/bibtex-icon.png" width="20px" alt="BibTeX"></a>
+- **Y. Zhang** and E. Candès. **Posterior Conformal Prediction**. Submitted, 2024. [<img src="../assets/img/pdf-icon.png" width="20px" alt="PDF">](https://arxiv.org/abs/2409.19712) [<img src="../assets/img/github-icon.png" width="20px" alt="GitHub">](https://github.com/yaozhang24/pcp) <a href="../assets/bibliography/pcp.txt" target="_blank"><img src="../assets/img/bibtex-icon.png" width="20px" alt="BibTeX"></a>
 
 
 - **Y. Zhang** and Q. Zhao. **$$L^\infty$$- and $$L^2$$-Sensitivity Analysis for Causal Inference with Unmeasured Confounding**.  Under revision in *Biometrika*, 2024. [<img src="../assets/img/pdf-icon.png" width="20px" alt="PDF">](https://arxiv.org/abs/2211.04697) [<img src="../assets/img/github-icon.png" width="20px" alt="GitHub">](https://github.com/yaozhang24/l2sa) <a href="../assets/bibliography/sa.txt" target="_blank"><img src="../assets/img/bibtex-icon.png" width="20px" alt="BibTeX"></a>
