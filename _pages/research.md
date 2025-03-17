@@ -14,6 +14,7 @@ nav_order: 1
     flex-wrap: wrap; /* Allows items to wrap on smaller screens */
     }
   
+  
     .intro-text {
     font-size: 0.9em; /* Adjust the font size of the introductory text */
     line-height:  auto; /* Increase line height for better readability */
