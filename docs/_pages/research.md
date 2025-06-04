@@ -69,7 +69,7 @@ nav_order: 1
 <div class="content-area" markdown="1">
 
 <p class="intro-text">
-Welcome to my research webpage!  Below, I list my publications and preprints, where 
+Welcome to my research webpage! I list my publications and preprints, where 
  <img src="../assets/img/pdf-icon.png" width="20px" alt="PDF"> : paper, 
  <img src="../assets/img/github-icon.png" width="20px" alt="GitHub"> : software, 
  <img src="../assets/img/bibtex-icon.png" width="20px" alt="BibTeX"> : bibtex,
