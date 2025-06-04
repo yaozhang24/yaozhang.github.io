@@ -1,0 +1,6 @@
+@article{zhang2025powerful,
+  title={Powerful randomization tests for subgroup analysis},
+  author={Zhang, Yao and Gao, Zijun},
+  journal={arXiv preprint arXiv:2504.21572},
+  year={2025}
+}
