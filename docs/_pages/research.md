@@ -103,7 +103,6 @@ and * : equal contribution.
 ---
 
 - **Y. Zhang\***, J. Berrevoets\*, and M. van der Schaar. **Identifiable Energy-based Representations: An Application to Estimating Heterogeneous Causal Effects**. 
-<br>
 *International Conference on Artificial Intelligence and Statistics (AISTATS)*, PMLR 151:4158--4177, 2022.  [<img src="../assets/img/pdf-icon.png" width="20px" alt="PDF">](https://proceedings.mlr.press/v151/zhang22b) [<img src="../assets/img/github-icon.png" width="20px" alt="GitHub">](https://github.com/jeroenbe/ebm-for-cate) <a href="../assets/bibliography/ebm.txt" target="_blank"><img src="../assets/img/bibtex-icon.png" width="20px" alt="BibTeX"></a>
 
 
@@ -155,7 +154,7 @@ and * : equal contribution.
 
 ### Scientific Papers
 ---
-- S. Becker, **Y. Zhang**, and A. A. Lee.  **Geometry of Energy Landscapes and the Optimizability of Deep Neural Networks**. *Physical Review Letters*, 124(10), 2020. [<img src="../assets/img/pdf-icon.png" width="20px" alt="PDF">](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.108301) <a href="../assets/bibliography/geometry.txt" target="_blank"><img src="../assets/img/bibtex-icon.png" width="20px" alt="BibTeX"></a>
+- S. Becker, **Y. Zhang**, and A. A. Lee.  **Geometry of Energy Landscapes and the Optimizability of Deep Neural Networks**. *Physical Review Letters*, 124(10), 108301, 2020. [<img src="../assets/img/pdf-icon.png" width="20px" alt="PDF">](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.108301) <a href="../assets/bibliography/geometry.txt" target="_blank"><img src="../assets/img/bibtex-icon.png" width="20px" alt="BibTeX"></a>
 
 
 - Y. Zhang, Q. Tang, **Y. Zhang**, J. Wang, U. Stimming, and A. A. Lee. **Identifying Degradation Patterns of Li-ion Batteries from Impedance Spectroscopy using Machine Learning**. 
@@ -165,7 +164,6 @@ and * : equal contribution.
 <br> *Chemical Science*, 10(35), 8154-8163, 2019. [<img src="../assets/img/pdf-icon.png" width="20px" alt="PDF">](https://pubs.rsc.org/en/content/articlelanding/2019/sc/c9sc00616h) <a href="../assets/bibliography/drug.txt" target="_blank"><img src="../assets/img/bibtex-icon.png" width="20px" alt="BibTeX"></a>
 
 -  **Y. Zhang**, A. M. Saxe, M. S. Advani, and A. A. Lee. **Energy–Entropy Competition and the Effectiveness of Stochastic Gradient Descent in Machine Learning**. 
-<br>
 *Molecular Physics*, 116(21-22), 3214-3223, 2018. [<img src="../assets/img/pdf-icon.png" width="20px" alt="PDF">](https://www.tandfonline.com/doi/full/10.1080/00268976.2018.1483535) <a href="../assets/bibliography/entropy.txt" target="_blank"><img src="../assets/img/bibtex-icon.png" width="20px" alt="BibTeX"></a>
 
 </div>
