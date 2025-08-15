@@ -77,7 +77,7 @@ social: true  # Includes social icons at the bottom of the page
  <div class="text-block">
     <p>
     I am an Assistant Professor in the <a href="https://www.stat.nus.edu.sg/">Department of Statistics and Data Science</a> at the National University of Singapore (NUS). 
-    <strong><span style="color: black;">     I am looking for students and postdocs to work on projects in predictive inference, causal inference, and areas of machine learning that benefit from a statistical perspective. If you are interested in working with me or exploring potential collaborations, feel free to reach out via the email below. 
+    <strong><span style="color: black;">     I am looking for students and postdocs to work on projects in predictive inference, causal inference, and areas of machine learning that benefit from a statistical perspective. If you are interested in working with me or exploring collaborations, feel free to reach out via the email below. 
 </span></strong>
  </p>
     <p>
