@@ -76,13 +76,13 @@ social: true  # Includes social icons at the bottom of the page
 
  <div class="text-block">
     <p>
-    Hi, I'm Yao. I will soon be joining the <a href="https://www.stat.nus.edu.sg/">Department of Statistics and Data Science</a> at the National University of Singapore (NUS) as an Assistant Professor. 
-    <strong><span style="color: black;">     I am  looking for students to work on projects in predictive inference, causal inference, and areas of machine learning that benefit from a statistical perspective.
+    I am an Assistant Professor in the <a href="https://www.stat.nus.edu.sg/">Department of Statistics and Data Science</a> at the National University of Singapore (NUS). 
+    <strong><span style="color: black;">     I am looking for students to work on projects in predictive inference, causal inference, and areas of machine learning that benefit from a statistical perspective.
 I will also have postdoctoral positions available, thanks to the generous support of the NUS Presidential Young Professorship. If you are interested in working with me or exploring potential collaborations, feel free to reach out via the email below. 
 </span></strong>
  </p>
     <p>
-      I am currently a postdoctoral researcher in the Department of Statistics at Stanford University, advised by Prof. <a href="https://candes.su.domains/">Emmanuel Candès</a>.  I received my Ph.D. in Mathematics at the University of Cambridge, supervised by Prof. <a href="https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/">Mihaela van der Schaar</a>. I also collaborated with Prof. <a href="http://www.statslab.cam.ac.uk/~qz280/">Qingyuan Zhao</a> on several projects related to causal inference. Prior to my Ph.D., I worked with  Dr. <a href="https://www.alpha-lee.com/alphalee">Alpha Lee</a> on battery diagnosis and  drug discovery.
+      Previously, I was a postdoctoral researcher in the Department of Statistics at Stanford University, advised by Prof. <a href="https://candes.su.domains/">Emmanuel Candès</a>.  I received my Ph.D. in Mathematics at the University of Cambridge, supervised by Prof. <a href="https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/">Mihaela van der Schaar</a>. I also collaborated with Prof. <a href="http://www.statslab.cam.ac.uk/~qz280/">Qingyuan Zhao</a> on several projects related to causal inference. Prior to my Ph.D., I worked with  Dr. <a href="https://www.alpha-lee.com/alphalee">Alpha Lee</a> on battery diagnosis and drug discovery.
     </p>
     <p>
 My research lies at the interface of statistics, machine learning, and their scientific applications. A central theme of my work is developing assumption-lean methods to analyze complex data and models used for prediction and causal inference. These methods are designed to achieve the practical statistical guarantees required in real-world applications:
