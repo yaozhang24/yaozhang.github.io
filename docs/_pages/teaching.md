@@ -5,79 +5,79 @@ title: Teaching
 nav: true
 nav_order: 5
 ---
+
 <style>
-  /* Global container setup */
+  .intro-text {
+    font-size: 0.9em;
+    line-height: 1.6;
+    margin-bottom: 25px;
+  }
+
   .content-area {
-    display: flex; /* Enables flexbox layout */
-    max-width: 2500px;
-    justify-content: space-between; /* Distributes space between sections */
-    align-items: flex-start; /* Aligns items at the top of their containers */
-    flex-wrap: wrap; /* Allows items to wrap on smaller screens */
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 24px;
+    width: 100%;
+    max-width: 1400px;
+    margin: 0 auto;
+    align-items: start;
   }
 
-  /* Section specific styles */
   .section {
-    flex: 1; /* Each section takes equal space */
-    margin: 30px; /* Margin between sections */
-    margin-top: 10px; /* Margin between sections */
-    min-width: 300px; 
-    max-width: 325px; 
-    box-shadow: 0 0 0px rgba(0,0,0,0.1); /* Optional: adds shadow for depth */
+    min-width: 0;
+    margin: 0;
+    box-shadow: none;
   }
-  
-  
-  
-    .intro-text {
-    font-size: 0.9em; /* Adjust the font size of the introductory text */
-    line-height:  auto; /* Increase line height for better readability */
-    margin-bottom: 20px; /* Add some space after the paragraph */
-  }
-  
 
-  /* Typography and readability improvements */
   li {
     font-size: 0.86em;
-    line-height: 2.1em;
+    line-height: 1.7em;
   }
-  
-  nav{
-      font-size: 1.1em;
+
+  nav {
+    font-size: 1.1em;
   }
-  
+
   ul {
-   line-height: 1.6 px;
     padding-left: 25px;
-    list-style: number;
+    list-style-type: decimal;
   }
-    
-  
-    h1 {
+
+  h1 {
     font-size: 1.8em;
     text-align: center;
-    padding-top:5px;
+    padding-top: 5px;
   }
-  
+
   h3 {
     font-size: 1.0em;
     padding: 10px;
-        text-align: center;
+    text-align: center;
   }
 
+  @media (max-width: 1100px) {
+    .content-area {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (max-width: 700px) {
+    .content-area {
+      grid-template-columns: 1fr;
+    }
+  }
 </style>
+
+<p class="intro-text">
+  Welcome to my teaching webpage! I participated in teaching the following courses:
+</p>
 
 <div class="content-area">
 
-<p class="intro-text">
-Welcome to my teaching webpage! I participated in teaching the following courses:
-</p>
-
-
-
-  <!-- Statistical Foundations of Data Science -->
   <div class="section">
     <h3><a href="https://nusmods.com/courses/ST5201/statistical-foundations-of-data-science">Statistical Foundations of Data Science</a></h3>
     <ul>
-      <li>Probability </li>
+      <li>Probability</li>
       <li>Random Variables</li>
       <li>Joint Distributions</li>
       <li>Expected Values</li>
@@ -90,12 +90,10 @@ Welcome to my teaching webpage! I participated in teaching the following courses
     </ul>
   </div>
 
-
-  <!-- Statistics IB Section -->
   <div class="section">
     <h3><a href="https://www.statslab.cam.ac.uk/Dept/People/djsteaching/teaching17.html">Statistics IB</a></h3>
     <ul>
-      <li>Introduction and probability revision </li>
+      <li>Introduction and probability revision</li>
       <li>Estimation, bias and mean squared error</li>
       <li>Sufficiency</li>
       <li>Maximum Likelihood Estimator (MLE)</li>
@@ -107,35 +105,34 @@ Welcome to my teaching webpage! I participated in teaching the following courses
       <li>Tests in contingency tables</li>
       <li>Multivariate normal theory</li>
       <li>The linear model</li>
-       <li>The normal linear model</li>
+      <li>The normal linear model</li>
       <li>Inference in the normal linear model</li>
       <li>Special cases of the linear model</li>
       <li>Hypothesis testing in the linear model</li>
     </ul>
   </div>
 
-  <!-- Principle of Statistics Section -->
   <div class="section">
-    <h3><a href="https://q-berthet.github.io/notes/princip_stat_complete.pdf">Principle of Statistics</a></h3>
+    <h3><a href="https://q-berthet.github.io/notes/princip_stat_complete.pdf">Principles of Statistics</a></h3>
     <ul>
-     <li>Course overview</li>
+      <li>Course overview</li>
       <li>Fisher information</li>
       <li>Cramer-Rao bound</li>
       <li>Stochastic convergence</li>
       <li>Central limit theorem</li>
       <li>Consistency of the MLE</li>
       <li>Asymptotic normality of MLE</li>
-       <li>Plug-in MLE and Delta method</li>
+      <li>Plug-in MLE and Delta method</li>
       <li>Asymptotic inference with MLE</li>
       <li>Introduction to Bayesian statistics</li>
-       <li>Between prior and posterior</li>
+      <li>Between prior and posterior</li>
       <li>Frequentist analysis of Bayesian methods</li>
-     <li>Decision theory & Bayesian risk</li>
+      <li>Decision theory & Bayesian risk</li>
       <li>Minimax risk and admissibility</li>
       <li>Admissibility in the Gaussian model</li>
       <li>Risk of the James–Stein estimator</li>
       <li>Classification problems</li>
-      <li>Multivariate analysis</li> 
+      <li>Multivariate analysis</li>
       <li>Principal component analysis</li>
       <li>Resampling principles & the bootstrap</li>
       <li>Validity of the bootstrap</li>
@@ -145,11 +142,10 @@ Welcome to my teaching webpage! I participated in teaching the following courses
     </ul>
   </div>
 
-  <!-- Mathematics of Machine Learning Section -->
   <div class="section">
     <h3><a href="https://www.statslab.cam.ac.uk/~rds37/machine_learning.html">Mathematics of Machine Learning</a></h3>
     <ul>
-    <li>Review of conditional expectation</li>
+      <li>Review of conditional expectation</li>
       <li>Empirical risk minimisation</li>
       <li>Sub-Gaussianity and Hoeffding’s inequality</li>
       <li>Finite hypothesis classes</li>
@@ -159,7 +155,7 @@ Welcome to my teaching webpage! I participated in teaching the following courses
       <li>Convex analysis</li>
       <li>Convex surrogates</li>
       <li>Rademacher complexity revisited</li>
-       <li>Gradient descent</li>
+      <li>Gradient descent</li>
       <li>Stochastic gradient descent</li>
       <li>Cross-validation</li>
       <li>Adaboost & Gradient boosting</li>
@@ -167,4 +163,5 @@ Welcome to my teaching webpage! I participated in teaching the following courses
       <li>Feedforward neural networks</li>
     </ul>
   </div>
+
 </div>
