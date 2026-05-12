@@ -77,30 +77,28 @@ social: true  # Includes social icons at the bottom of the page
  <div class="text-block">
     <p>
     I am an Assistant Professor in the <a href="https://www.stat.nus.edu.sg/">Department of Statistics and Data Science</a> at the National University of Singapore (NUS). 
-    <strong><span style="color: black;">     I am looking for PhD students to work on projects in predictive inference, causal inference, and areas of machine learning that benefit from a statistical perspective. If you are interested in working with me or exploring collaborations, feel free to reach out via the email below. 
+    <strong><span style="color: black;">  I am looking for PhD students to work on projects in predictive inference, causal inference, and areas of machine learning that benefit from a statistical perspective. If you are interested in working with me or exploring collaborations, feel free to reach out via the email below. 
 </span></strong>
  </p>
     <p>
       Previously, I was a postdoctoral researcher in the Department of Statistics at Stanford University, advised by Prof. <a href="https://candes.su.domains/">Emmanuel Candès</a>.  I received my Ph.D. in Mathematics at the University of Cambridge, supervised by Prof. <a href="https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/">Mihaela van der Schaar</a>. I also collaborated with Prof. <a href="http://www.statslab.cam.ac.uk/~qz280/">Qingyuan Zhao</a> on several projects related to causal inference. Prior to my Ph.D., I worked with  Dr. <a href="https://www.alpha-lee.com/alphalee">Alpha Lee</a> on battery diagnosis and drug discovery.
-My research lies at the interface of statistics, machine learning, and their scientific applications. A central theme of my work is developing statistical methods for analyzing complex data and models used in prediction and causal inference. 
 </p>
+<p>
+Below are two recent papers I wrote with students. They make classical statistical methods more data-efficient and easy to use with machine learning models in modern applied problems. I look forward to sharing more work in this direction soon.
 </p>
-Below are two recent papers I wrote with students. They bring classical statistical ideas to modern applied problems, with methods that are data-efficient and easy to use with machine learning models. I look forward to sharing more work in this direction soon.
+<ul>
+  <li>Multi-Fidelity Quantile Regression (<a href="https://arxiv.org/abs/2605.10406">link</a>).</li>
+  <li>Fit CATE Once: Model-Assisted Randomization Tests Without Sample Splitting (<a href="https://arxiv.org/abs/2605.09116">link</a>).</li>
+</ul>
+<p>
+More broadly, I am drawn to methods that are intuitive enough to be useful in practice, yet principled enough for theory to explain when and why they work. Previously, I have worked on the following topics:
 </p>
-    <ul>
-    <li>Multi-Fidelity Quantile Regression (<a href="https://arxiv.org/abs/2605.10406">link</a>).</li>
-      <li>Fit CATE Once: Model-Assisted Randomization Tests Without Sample Splitting (<a href="https://arxiv.org/abs/2605.09116">link</a>).</li>
-    </ul>
- <p>
-More broadly, my work aims to develop methods with theoretical guarantees that can benefit real-world applications.
-</p>
-    <ul>
-     <li>Uncertainty quantification for black-box models (<a href="https://arxiv.org/abs/2409.19712">link</a>).</li>
-        <li>Adaptive sample-splitting for randomization tests (<a href="https://arxiv.org/abs/2504.21572">link</a>).</li>
-       <li>Multiple testing for complex randomized experiments (<a href="https://arxiv.org/abs/2104.10618">link</a>).</li>
-      <li>Average-case sensitivity analysis for unmeasured confounding (<a href="https://arxiv.org/abs/2211.04697">link</a>).</li>
-    </ul>
-  <p>
+<ul>
+  <li>Uncertainty quantification for black-box models (<a href="https://arxiv.org/abs/2409.19712">link</a>).</li>
+  <li>Adaptive sample-splitting for randomization tests (<a href="https://arxiv.org/abs/2504.21572">link</a>).</li>
+  <li>Multiple testing for complex randomized experiments (<a href="https://arxiv.org/abs/2104.10618">link</a>).</li>
+  <li>Average-case sensitivity analysis for unmeasured confounding (<a href="https://arxiv.org/abs/2211.04697">link</a>).</li>
+</ul>
 In addition to my primary research areas, I enjoy exploring basic sciences and their application of statistics and machine learning. You can find my interdisciplinary work in physics and chemistry (<a href="https://www.tandfonline.com/doi/abs/10.1080/00268976.2018.1483535">link1</a>, <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.108301">link2</a>, <a href="https://pubs.rsc.org/en/content/articlehtml/2019/sc/c9sc00616h">link3</a>, <a href="https://www.nature.com/articles/s41467-020-15235-7">link4</a>).
 </p>
     </div>
