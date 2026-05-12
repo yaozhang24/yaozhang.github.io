@@ -68,8 +68,27 @@ nav_order: 5
 <div class="content-area">
 
 <p class="intro-text">
-Welcome to my teaching webpage! During my Ph.D. at the University of Cambridge, I participated in teaching the following courses:
+Welcome to my teaching webpage! I participated in teaching the following courses:
 </p>
+
+
+
+  <!-- Statistical Foundations of Data Science -->
+  <div class="section">
+    <h3><a href="https://nusmods.com/courses/ST5201/statistical-foundations-of-data-science">Statistical Foundations of Data Science</a></h3>
+    <ul>
+      <li>Probability </li>
+      <li>Random Variables</li>
+      <li>Joint Distributions</li>
+      <li>Expected Values</li>
+      <li>Limit Theorems</li>
+      <li>Parameter Estimation</li>
+      <li>Hypothesis Testing</li>
+      <li>Sign test</li>
+      <li>Signed Rank Test</li>
+      <li>Rank Sum Test</li>
+    </ul>
+  </div>
 
 
   <!-- Statistics IB Section -->

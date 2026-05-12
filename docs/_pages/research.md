@@ -82,15 +82,13 @@ and * : equal contribution.
 ### Journal Papers
 ---
 
+- Y. Liu and **Y. Zhang**. **Multi-Fidelity Quantile Regression**. Pre-published, 2026. [<img src="../assets/img/pdf-icon.png" width="20px" alt="PDF">](https://arxiv.org/abs/2605.10406) [<img src="../assets/img/github-icon.png" width="20px" alt="GitHub">](https://github.com/Yixiang-Kenzo/Multi-Fidelity-Quantile-Regression)
 
-- Y. Liu and **Y. Zhang**. **Multi-Fidelity Quantile Regression**. Pre-published, 2026. [<img src="../assets/img/pdf-icon.png" width="20px" alt="PDF">](https://arxiv.org/abs/2605.10406) [<img src="../assets/img/github-icon.png" width="20px" alt="GitHub">](https://github.com/Yixiang-Kenzo/Multi-Fidelity-Quantile-Regression) <a href="../assets/bibliography/split.txt" target="_blank"><img src="../assets/img/bibtex-icon.png" width="20px" alt="BibTeX"></a>
-
-- F. Zheng and **Y. Zhang**. **Fit CATE Once: Model-Assisted Randomization Tests Without Sample Splitting**. Pre-published, 2026. [<img src="../assets/img/pdf-icon.png" width="20px" alt="PDF">](https://arxiv.org/abs/2605.09116) [<img src="../assets/img/github-icon.png" width="20px" alt="GitHub">](https://github.com/fangnanzheng) <a href="../assets/bibliography/split.txt" target="_blank"><img src="../assets/img/bibtex-icon.png" width="20px" alt="BibTeX"></a>
+- F. Zheng and **Y. Zhang**. **Fit CATE Once: Model-Assisted Randomization Tests Without Sample Splitting**. Pre-published, 2026. [<img src="../assets/img/pdf-icon.png" width="20px" alt="PDF">](https://arxiv.org/abs/2605.09116) [<img src="../assets/img/github-icon.png" width="20px" alt="GitHub">](https://github.com/fangnanzheng)
 
 - **Y. Zhang** and Z. Gao. **Adaptive Sample Splitting for Randomization Tests**. Pre-published, 2025. [<img src="../assets/img/pdf-icon.png" width="20px" alt="PDF">](https://arxiv.org/abs/2504.21572) [<img src="../assets/img/github-icon.png" width="20px" alt="GitHub">](https://github.com/ZijunGao/AdaSplit) <a href="../assets/bibliography/split.txt" target="_blank"><img src="../assets/img/bibtex-icon.png" width="20px" alt="BibTeX"></a>
 
 - **Y. Zhang** and E. Candès. **Posterior Conformal Prediction**. Pre-published, 2024. [<img src="../assets/img/pdf-icon.png" width="20px" alt="PDF">](https://arxiv.org/abs/2409.19712) [<img src="../assets/img/github-icon.png" width="20px" alt="GitHub">](https://github.com/yaozhang24/pcp) <a href="../assets/bibliography/pcp.txt" target="_blank"><img src="../assets/img/bibtex-icon.png" width="20px" alt="BibTeX"></a>
-
 
 - **Y. Zhang** and Q. Zhao. **An average-case sensitivity analysis for unmeasured confounding**. *Biometrika*, 2025+. [<img src="../assets/img/pdf-icon.png" width="20px" alt="PDF">](https://arxiv.org/abs/2211.04697) [<img src="../assets/img/github-icon.png" width="20px" alt="GitHub">](https://github.com/yaozhang24/l2sa) <a href="../assets/bibliography/sa.txt" target="_blank"><img src="../assets/img/bibtex-icon.png" width="20px" alt="BibTeX"></a>
 
