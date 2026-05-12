@@ -84,7 +84,7 @@ and * : equal contribution.
 
 - Y. Liu and **Y. Zhang**. **Multi-Fidelity Quantile Regression**. Pre-published, 2026. [<img src="../assets/img/pdf-icon.png" width="20px" alt="PDF">](https://arxiv.org/abs/2605.10406) [<img src="../assets/img/github-icon.png" width="20px" alt="GitHub">](https://github.com/Yixiang-Kenzo/Multi-Fidelity-Quantile-Regression)
 
-- F. Zheng and **Y. Zhang**. **Fit CATE Once: Model-Assisted Randomization Tests Without Sample Splitting**. Pre-published, 2026. [<img src="../assets/img/pdf-icon.png" width="20px" alt="PDF">](https://arxiv.org/abs/2605.09116) [<img src="../assets/img/github-icon.png" width="20px" alt="GitHub">](https://github.com/fangnanzheng)
+- F. Zheng and **Y. Zhang**. **Fit CATE Once: Model-Assisted Randomization Tests Without Sample Splitting**. Pre-published, 2026. [<img src="../assets/img/pdf-icon.png" width="20px" alt="PDF">](https://arxiv.org/abs/2605.09116) [<img src="../assets/img/github-icon.png" width="20px" alt="GitHub">](https://github.com/fangnanzheng/fit-cate-once)
 
 - **Y. Zhang** and Z. Gao. **Adaptive Sample Splitting for Randomization Tests**. Pre-published, 2025. [<img src="../assets/img/pdf-icon.png" width="20px" alt="PDF">](https://arxiv.org/abs/2504.21572) [<img src="../assets/img/github-icon.png" width="20px" alt="GitHub">](https://github.com/ZijunGao/AdaSplit) <a href="../assets/bibliography/split.txt" target="_blank"><img src="../assets/img/bibtex-icon.png" width="20px" alt="BibTeX"></a>
 
