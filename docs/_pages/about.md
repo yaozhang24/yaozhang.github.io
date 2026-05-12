@@ -84,7 +84,7 @@ social: true  # Includes social icons at the bottom of the page
       Previously, I was a postdoctoral researcher in the Department of Statistics at Stanford University, advised by Prof. <a href="https://candes.su.domains/">Emmanuel Candès</a>.  I received my Ph.D. in Mathematics at the University of Cambridge, supervised by Prof. <a href="https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/">Mihaela van der Schaar</a>. I also collaborated with Prof. <a href="http://www.statslab.cam.ac.uk/~qz280/">Qingyuan Zhao</a> on several projects related to causal inference. Prior to my Ph.D., I worked with  Dr. <a href="https://www.alpha-lee.com/alphalee">Alpha Lee</a> on battery diagnosis and drug discovery.
 </p>
 <p>
-Below are two recent papers I wrote with students. They make classical statistical methods more data-efficient and easy to use with machine learning models in modern applied problems. I look forward to sharing more work in this direction soon.
+  Below are two recent papers I wrote with students. They make classical statistical methods more data-efficient and easier to use with machine learning models in modern applied problems. I look forward to sharing more work in this direction soon.
 </p>
 <ul>
   <li>Multi-Fidelity Quantile Regression (<a href="https://arxiv.org/abs/2605.10406">link</a>).</li>
@@ -92,7 +92,7 @@ Below are two recent papers I wrote with students. They make classical statistic
 </ul>
 
 <p>
-More broadly, I am drawn to methods that are intuitive enough to be useful in practice, yet principled enough for theory to explain when and why they work. Previously, I have worked on the following topics:
+  More broadly, I am drawn to methods that are intuitive enough to be useful in practice, yet principled enough for theory to explain when and why they work. Previously, I have worked on the following topics:
 </p>
 <ul>
   <li>Uncertainty quantification for black-box models (<a href="https://arxiv.org/abs/2409.19712">link</a>).</li>
@@ -102,9 +102,13 @@ More broadly, I am drawn to methods that are intuitive enough to be useful in pr
 </ul>
 
 <p>
-In addition to my primary research areas, I enjoy exploring basic sciences and their application of statistics and machine learning. You can find my interdisciplinary work in physics and chemistry (<a href="https://www.tandfonline.com/doi/abs/10.1080/00268976.2018.1483535">link1</a>, <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.108301">link2</a>, <a href="https://pubs.rsc.org/en/content/articlehtml/2019/sc/c9sc00616h">link3</a>, <a href="https://www.nature.com/articles/s41467-020-15235-7">link4</a>).
-</p>
-    </div>
+  In addition to my primary research areas, I enjoy exploring basic sciences and their connections to statistics and machine learning. You can find some of my interdisciplinary work in physics and chemistry here
+  (<a href="https://www.tandfonline.com/doi/abs/10.1080/00268976.2018.1483535">link1</a>,
+  <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.108301">link2</a>,
+  <a href="https://pubs.rsc.org/en/content/articlehtml/2019/sc/c9sc00616h">link3</a>,
+  <a href="https://www.nature.com/articles/s41467-020-15235-7">link4</a>).
+</p>    
+</div>
 </div>
 
 

@@ -9,7 +9,7 @@ nav_order: 5
   /* Global container setup */
   .content-area {
     display: flex; /* Enables flexbox layout */
-    max-width: 1500px;
+    max-width: 2500px;
     justify-content: space-between; /* Distributes space between sections */
     align-items: flex-start; /* Aligns items at the top of their containers */
     flex-wrap: wrap; /* Allows items to wrap on smaller screens */
