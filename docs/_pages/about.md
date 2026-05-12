@@ -90,6 +90,7 @@ Below are two recent papers I wrote with students. They make classical statistic
   <li>Multi-Fidelity Quantile Regression (<a href="https://arxiv.org/abs/2605.10406">link</a>).</li>
   <li>Fit CATE Once: Model-Assisted Randomization Tests Without Sample Splitting (<a href="https://arxiv.org/abs/2605.09116">link</a>).</li>
 </ul>
+
 <p>
 More broadly, I am drawn to methods that are intuitive enough to be useful in practice, yet principled enough for theory to explain when and why they work. Previously, I have worked on the following topics:
 </p>
@@ -99,6 +100,8 @@ More broadly, I am drawn to methods that are intuitive enough to be useful in pr
   <li>Multiple testing for complex randomized experiments (<a href="https://arxiv.org/abs/2104.10618">link</a>).</li>
   <li>Average-case sensitivity analysis for unmeasured confounding (<a href="https://arxiv.org/abs/2211.04697">link</a>).</li>
 </ul>
+
+<p>
 In addition to my primary research areas, I enjoy exploring basic sciences and their application of statistics and machine learning. You can find my interdisciplinary work in physics and chemistry (<a href="https://www.tandfonline.com/doi/abs/10.1080/00268976.2018.1483535">link1</a>, <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.108301">link2</a>, <a href="https://pubs.rsc.org/en/content/articlehtml/2019/sc/c9sc00616h">link3</a>, <a href="https://www.nature.com/articles/s41467-020-15235-7">link4</a>).
 </p>
     </div>
