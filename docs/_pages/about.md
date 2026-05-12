@@ -85,7 +85,7 @@ social: true  # Includes social icons at the bottom of the page
 My research lies at the interface of statistics, machine learning, and their scientific applications. A central theme of my work is developing statistical methods for analyzing complex data and models used in prediction and causal inference. 
 </p>
 </p>
-They bring classical statistical ideas to modern applied problems, with methods that are data-efficient and easy to use with machine learning models. I look forward to sharing more work in this direction soon.
+Below are two recent papers I wrote with students. They bring classical statistical ideas to modern applied problems, with methods that are data-efficient and easy to use with machine learning models. I look forward to sharing more work in this direction soon.
 </p>
     <ul>
     <li>Multi-Fidelity Quantile Regression (<a href="https://arxiv.org/abs/2605.10406">link</a>).</li>
