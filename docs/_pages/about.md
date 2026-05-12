@@ -84,7 +84,7 @@ social: true  # Includes social icons at the bottom of the page
       Previously, I was a postdoctoral researcher in the Department of Statistics at Stanford University, advised by Prof. <a href="https://candes.su.domains/">Emmanuel Candès</a>.  I received my Ph.D. in Mathematics at the University of Cambridge, supervised by Prof. <a href="https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/">Mihaela van der Schaar</a>. I also collaborated with Prof. <a href="http://www.statslab.cam.ac.uk/~qz280/">Qingyuan Zhao</a> on several projects related to causal inference. Prior to my Ph.D., I worked with  Dr. <a href="https://www.alpha-lee.com/alphalee">Alpha Lee</a> on battery diagnosis and drug discovery.
 </p>
 <p>
-  Below are two recent papers I wrote with students. They make classical statistical methods more data-efficient and easier to use with machine learning models in modern applied problems. I look forward to sharing more work in this direction soon.
+  Below are two recent papers I wrote with students. They make classical statistical methods data-efficient and easy to use with machine learning models in modern applied problems. I look forward to sharing more work in this direction soon.
 </p>
 <ul>
   <li>Multi-Fidelity Quantile Regression (<a href="https://arxiv.org/abs/2605.10406">link</a>).</li>
